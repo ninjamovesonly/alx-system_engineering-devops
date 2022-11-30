@@ -1,0 +1,1 @@
+cd && cd .. && cd tmp && rm -r my_first_directory/betty
